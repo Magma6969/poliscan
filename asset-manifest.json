@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/poliscan/static/js/main.0da4126c.js",
+    "index.html": "/poliscan/index.html",
+    "main.0da4126c.js.map": "/poliscan/static/js/main.0da4126c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0da4126c.js"
+  ]
+}
