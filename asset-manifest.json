@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/poliscan/static/js/main.0da4126c.js",
+    "main.css": "/poliscan/static/css/main.cf737bde.css",
+    "main.js": "/poliscan/static/js/main.9f0666a2.js",
     "index.html": "/poliscan/index.html",
-    "main.0da4126c.js.map": "/poliscan/static/js/main.0da4126c.js.map"
+    "main.cf737bde.css.map": "/poliscan/static/css/main.cf737bde.css.map",
+    "main.9f0666a2.js.map": "/poliscan/static/js/main.9f0666a2.js.map"
   },
   "entrypoints": [
-    "static/js/main.0da4126c.js"
+    "static/css/main.cf737bde.css",
+    "static/js/main.9f0666a2.js"
   ]
 }
