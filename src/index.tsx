@@ -17,7 +17,7 @@ root.render(
   <React.StrictMode>
     <ChakraProvider theme={theme}>
       <ColorModeScript initialColorMode={theme.config.initialColorMode} />
-      <BrowserRouter basename="/poliscan">
+      <BrowserRouter>
         <App />
       </BrowserRouter>
     </ChakraProvider>
