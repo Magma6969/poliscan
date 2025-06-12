@@ -1,0 +1,35 @@
+{
+  "short_name": "PoliScan",
+  "name": "PoliScan - Privacy Policy Analysis",
+  "description": "AI-powered privacy policy analysis tool",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6B46C1",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait",
+  "categories": ["productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "type": "image/png",
+      "sizes": "1280x800"
+    }
+  ]
+}

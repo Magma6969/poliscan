@@ -1,0 +1,9 @@
+# Handle line endings automatically for all files
+* text=auto eol=lf
+
+# Explicitly handle Windows-specific files
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+
+# Binary files should not be modified
+*.{png,jpg,jpeg,gif,ico,pdf,woff,woff2,eot,ttf,svg} binary
