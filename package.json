@@ -1,7 +1,6 @@
 {
   "name": "poliscan",
   "version": "0.1.0",
-  "homepage": "https://magma6969.github.io/poliscan/",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.2.4",
